@@ -1,4 +1,4 @@
-#Vaishnavi Jagdale
+#Vaishnavi_Jagdale
 Contactless System-Advance Health management
 
 
@@ -43,8 +43,6 @@ Now you will get the link of the server as http://127.0.0.1:8000/ .
 Then copy the url and paste it in any of the browser.
 
 Now on browser you will see the main dashboard of our website.
-
-Or you can refer the deployed link at (" https://share-to-care.herokuapp.com ").
 
 *** How to daownload the source-code of our web...!! ***
 
