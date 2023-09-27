@@ -39,18 +39,6 @@ Run pip install -r requirements.txt
 Run python manage.py runserver in terminal.
 (This will run the website in your local server.)
 
-Now you will get the link of the server as http://127.0.0.1:8000/ .
-Then copy the url and paste it in any of the browser.
-
-Now on browser you will see the main dashboard of our website.
-
-*** How to daownload the source-code of our web...!! ***
-
-To download the source-code visit our github repository.
-URL to repository (" https://github.com/saurabh00031/Coding-Avengers-007 ").
-
-You can download the source-code of our web.
-
 
 
 
