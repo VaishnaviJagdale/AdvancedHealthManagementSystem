@@ -1,9 +1,9 @@
-# Coding-Avengers-007
+#Vaishnavi Jagdale
 Contactless System-Advance Health management
 
-*** About project ...!! ***
 
-As we were trying to make a contactless system which will help the needy
+
+As I am trying to make a contactless system which will help the needy
 patient in the emergency situation.
 Our web gives the perfect and accurate information about number of beds,
 number of vaccines and ventilator available in the searched hospital.
@@ -53,20 +53,7 @@ URL to repository (" https://github.com/saurabh00031/Coding-Avengers-007 ").
 
 You can download the source-code of our web.
 
-*** Rights and Security...!! ***
-
-The project is developed for welfare of people in this pandemic situation.
-The rights are granted to everyone accessing the project. They can develop
-and modify this project.
-The only condition is they should give the rights of their project to 
-everyone.
-
-" Love and kindness are never wasted... "
-" Flowers always make people better, happier, and more helpful; they are 
-sunshine, food and medicine to the mind. "
 
 
-Thankyou for giving your valuable time....!
 
-Your's sincerely,
-Coding Avengers-007 team.
+
